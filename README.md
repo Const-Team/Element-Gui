@@ -56,6 +56,7 @@
 * 1.11.2 版本：https://fe.const.team/1.11.2
 * 1.11.3 版本：https://fe.const.team/1.11.3
 * 1.11.4 版本：https://fe.const.team/1.11.4
+* 1.11.5 版本：https://fe.const.team/1.11.5
 
 ## 支持一下
 
